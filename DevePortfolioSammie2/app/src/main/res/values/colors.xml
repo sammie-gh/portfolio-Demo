@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorMyBlack">#25282D</color>
+    <color name="colorMyRed">#E5202B</color>
+    <color name="colorMyAccent">#686868</color>
+    <color name="colorWebsiteTab">#ff5722</color>
+    <color name="colorPageTab">#b0bec5</color>
+
+
+
+
+</resources>
